@@ -1,0 +1,49 @@
+.content {
+    background-color: #13151d;
+}
+
+.card {
+    border: 1px solid #f9322c;
+}
+
+.inv {
+    background-color: #1e202e;
+    color: white;
+}
+
+.back {
+    text-decoration: none;
+    color: white;
+}
+
+.select-game {
+    border: solid 1px #f9322c;
+    width: 135px;
+    height: 38px;
+    border-radius: 5px;
+    outline: none;
+    background-color: transparent;
+    color: white;
+}
+
+.field {
+    outline: none;
+    border: none;
+    background-color: transparent;
+    color: #f9322c;
+    height: 38px;
+    width: 450px;
+    border: solid 1px #f9322c;
+    border-radius: 5px;
+}
+
+.select {
+    outline: none;
+    border: none;
+    background-color: transparent;
+    color: white;
+    height: 38px;
+    width: 450px;
+    border: solid 1px #f9322c;
+    border-radius: 5px;
+}

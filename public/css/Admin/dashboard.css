@@ -1,0 +1,9 @@
+.background-container {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 94.45vh;
+    width: 100%;
+    color: whitesmoke;
+    background-color: #13151d;
+}

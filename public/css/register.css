@@ -1,0 +1,89 @@
+.background-container {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100vh;
+    color: white;
+}
+
+.card {
+    background-color: #13151d;
+    border: 1px solid #F05340;
+}
+
+.text-center {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+#login-link {
+    color: #F05340;
+}
+
+.sign-btn {
+    /* border-radius: 5px;
+    padding: 7px 13px;
+    border: none;
+    cursor: pointer;
+    background-color: red;
+    color: black;
+    text-decoration: none; */
+
+    height: 100%;
+    padding: 7px 15px;
+    text-decoration: none;
+    color: #F05340;
+    background-color: #13151d;
+    border: 1px solid #F05340;
+    border-radius: 5px;
+}
+
+.sign-btn:hover {
+    /* color: black;
+    background-color: red;
+    text-decoration: none; */
+
+    text-decoration: none; 
+    background-color: #F05340;
+    color: #13151d;
+    transition: all 0.4s;
+}
+
+/* Reset margin dan padding pada elemen HTML dan body
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+/* Mengatur tampilan container dan membuatnya menjadi flex container 
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 10%;
+    background-color: #f2f2f2;
+}
+
+/* Mengatur tampilan kotak login 
+.login-box {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Mengatur tampilan logo 
+.logo img {
+    width: 100px; /* Sesuaikan ukuran dengan logo Anda 
+    height: 100px; /* Sesuaikan ukuran dengan logo Anda 
+    margin-bottom: 20px;
+}
+*/

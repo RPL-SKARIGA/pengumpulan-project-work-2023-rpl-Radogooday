@@ -1,0 +1,27 @@
+.background-container {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 94.45vh;
+    width: 100%;
+    color: whitesmoke;
+    background-color: #13151d;
+}
+
+.btn-link {
+    height: 100%;
+    width: 100%;
+    padding: 7px 15px;
+    color: red;
+    background-color: black;
+    border: 1px solid #FF0000;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.btn-link:hover {
+    text-decoration: none; 
+    background-color: red;
+    color: black;
+    transition: all 0.4s;
+}

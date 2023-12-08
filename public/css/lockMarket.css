@@ -1,0 +1,64 @@
+.content {
+    display: grid;
+    place-items: center;
+}
+
+
+
+
+
+
+.header-card {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 25px;
+}
+
+.title {
+    color: white;
+}
+
+.desc-title {
+    color: white;
+}
+
+.text {
+    color: white;
+}
+
+.login-card-section {
+    background-color: #13151d;
+}
+
+.background-container {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100vh;
+    background-color: #13151d;
+}
+
+.mini-card {
+    border: 1px solid #F05340;
+    border-radius: 5px;;
+}
+
+.btn {
+    color: white;
+    background-color: #F05340;
+}
+
+.link {
+    color: whitesmoke;
+}
+
+.link:hover {
+    color: #F05340;
+}
+
+.row {
+    justify-content: center;
+    align-items: center;
+    min-height: 95vh;
+}

@@ -1,0 +1,32 @@
+.content {
+    background-color: #13151d;
+}
+
+.item {
+    border: 1px solid #f9322c;
+    border-radius: 5px;
+    background-color: rgba(255, 0, 0, 0.20);
+}
+
+.img-wrap {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    color: #4b4b4b;
+}
+
+.mini-text {
+    display: flex;
+    justify-content: center;
+    color: #4b4b4b;
+}
+
+.seller-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

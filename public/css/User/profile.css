@@ -1,0 +1,31 @@
+.content {
+    background-color: #13151d;
+}
+
+.container {
+    background-color: #1e202e;
+    color: white;
+}
+
+.back {
+    text-decoration: none;
+    color: white;
+}
+
+.col {
+    text-align: center;
+}
+
+.field-data {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: white;
+}
+
+.form-select {
+    outline: none;
+    border: none;
+    background-color: transparent;
+    color: white;
+}

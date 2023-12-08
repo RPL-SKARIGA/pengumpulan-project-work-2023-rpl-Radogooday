@@ -1,0 +1,55 @@
+@font-face {
+    font-family: myFont;
+    src: url(Ageo.otf);
+}
+
+@font-face {
+    font-family: myFontThin;
+    src: url(Ageo-Thin.otf);
+}
+
+@font-face {
+    font-family: myFontLight;
+    src: url(Ageo-Light.otf);
+}
+
+@font-face {
+    font-family: myFontMedium;
+    src: url(Ageo-Medium.otf);
+}
+
+@font-face {
+    font-family: myFontHeavy;
+    src: url(Ageo-Heavy.otf);
+}
+
+@font-face {
+    font-family: myFontSemiBold;
+    src: url(Ageo-SemiBold.otf);
+}
+
+@font-face {
+    font-family: myFontBold;
+    src: url(Ageo-Bold.otf);
+}
+
+@font-face {
+    font-family: myFontXBold;
+    src: url(Ageo-ExtraBold.otf);
+}
+
+.nav-link {
+    font-family: myFontMedium;
+}
+
+.sign-btn-log {
+    font-family: myFontMedium;
+}
+
+.navbar-brand {
+    font-family: myFontSemiBold;
+}
+
+.subHeadline {
+    font-family: myFont;
+}

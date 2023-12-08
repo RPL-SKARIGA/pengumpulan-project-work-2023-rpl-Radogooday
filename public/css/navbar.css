@@ -1,0 +1,110 @@
+.mini-logo {
+    width: 23px;
+}
+
+.col-head {
+    background-color: #f9322c;
+    color: whitesmoke;
+}
+
+.navbar {
+    /* background-size: cover;
+    background-repeat: no-repeat; */
+    width: 100%;
+    background-color: #13151d;
+}
+
+.dropdown {
+    list-style: none;
+}
+
+.log-button {
+    list-style: none;
+}
+
+.navbar-button {
+    list-style: none;
+}
+
+.navbar-link {
+    color: #f9322c;
+    text-decoration: none;
+}
+
+.dropdown-toggle {
+    text-decoration: none;
+    color: #f9322c;
+    padding: 9px;
+    border: 1px solid #f9322c;
+}
+
+.navbar-nav {
+    color: #f9322c;
+}
+
+.nav-item {
+    color: #f9322c;
+}
+
+.nav-link {
+    position: relative;
+    text-decoration: none;
+    color: #f9322c;
+}
+
+.nav-link::after {
+    content: '';
+    opacity: 0;
+    transition: all 0.6s;
+    height: 3px;
+    width: 100%;
+    background-color: #f9322c;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.nav-link:hover {
+    color: #f9322c;
+}
+
+.nav-link:hover::after {
+    opacity: 1;
+}
+
+.navbar-brand {
+    color: #f9322c;
+}
+
+.navbar-brand:hover {
+    color: #f9322c;
+    transition: all 0.6s;
+}
+
+.sign-btn-log {
+    /* border-radius: 5px;
+    padding: 7px 13px;
+    border: none;
+    cursor: pointer;
+    background-color: red;
+    color: black;
+    text-decoration: none; */
+
+    height: 100%;
+    padding: 7px 15px;
+    text-decoration: none;
+    color: #F05340;
+    background-color: #13151d;
+    border: 1px solid #f9322c;
+}
+
+.sign-btn-log:hover {
+    /* color: black;
+    background-color: red;
+    text-decoration: none; */
+
+    text-decoration: none;
+    background-color: #f9322c;
+    color: #13151d;
+    transition: all 0.4s;
+}
